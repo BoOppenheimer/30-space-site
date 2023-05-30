@@ -1,6 +1,6 @@
 # Space the final frontier!
 
-WIP about 80-85% complete
+WIP about 85% complete
 
 - checkout here 
 [portfolio](https://www.zzyzxdigital.com/30-space-site)
@@ -9,6 +9,8 @@ WIP about 80-85% complete
 - [ ] bug on scaling for mobile state shows during transition from tablet to mobile.
 - [ ] bug on mobile not showing active state of border
 - [ ] bug accessibilty tab order not woking on tech
+- [ ] layout correct on tech
+- [ ] reponsive on all checked
 
 ## next steps
 - [ ] Step 1 - vanilla js - newer syntax, accesibility complient
